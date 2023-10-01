@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Geopenguin 
-- 👀 I’m interested in yo mama
-- 🌱 I’m currently learning your mom
-- 💞️ I’m looking to collaborate with your mom
-- 📫 How to reach me: your mom's address
+- 👀 I’m interested in deep AI 
+- 🌱 I’m currently learning OOP, C, and ML Algorithms
+- 📫 How to reach me: pedro44@ksu.edu 
 
 <!---
 Geopenguin/Geopenguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
